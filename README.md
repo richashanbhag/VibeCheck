@@ -32,7 +32,7 @@ This repository contains the **frontend-only implementation**.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/vibecheck-frontend.git
+git clone https://github.com/richashanbhag/VibeCheck.git
 ```
 
 ### 2️⃣ Navigate into the project folder
