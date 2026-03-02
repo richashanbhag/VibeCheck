@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Egg Factory",
+    "vibe": ["Late Night", "Budget"],
+    "description": "Popular midnight egg dishes near MIT.",
+    "images": ["/images/eggFactory.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Chai Point",
+    "vibe": ["Aesthetic", "Casual"],
+    "description": "Perfect place to relax with chai.",
+    "images": ["/images/chaiPoint.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Night Canteen",
+    "vibe": ["Late Night", "Budget"],
+    "description": "Student favourite after 10 PM.",
+    "images": ["/images/nightCanteen.jpeg"]
+  },
+  {
+    "id": 4,
+    "name": "Kamath's Café",
+    "vibe": ["Casual", "Budget"],
+    "description": "Affordable café popular among students.",
+    "images": ["/images/kamathCafe.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Dollops",
+    "vibe": ["Dessert", "Casual"],
+    "description": "Delicious food junction.",
+    "images": ["/images/dollops.jpeg"]
+  },
+  {
+    "id": 6,
+    "name": "Planet Café",
+    "vibe": ["Aesthetic", "Study"],
+    "description": "Quiet café for studying and coffee.",
+    "images": ["/images/planetCafe.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Madhuvan Serai",
+    "vibe": ["Family", "Veg"],
+    "description": "Pure vegetarian South Indian meals.",
+    "images": ["/images/madhuvan.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Basil Café",
+    "vibe": ["Aesthetic", "Premium"],
+    "description": "Beautiful ambience with continental food.",
+    "images": ["/images/basil.jpeg"]
+  },
+  {
+    "id": 9,
+    "name": "Hangyo CTF",
+    "vibe": ["Dessert", "Budget"],
+    "description": "Classic Manipal ice cream and food spot.",
+    "images": ["/images/ctf.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "Saiba",
+    "vibe": ["Family", "Budget"],
+    "description": "Famous for indian cuisine.",
+    "images": ["/images/saiba.jpeg"]
+  },
+  {
+    "id": 11,
+    "name": "Barista",
+    "vibe": ["Aesthetic", "Study"],
+    "description": "Coffee, WiFi, and calm vibes.",
+    "images": ["/images/barista.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "Eat and Meet",
+    "vibe": ["Budget"],
+    "description": "Iconic food spot near campus.",
+    "images": ["/images/eatnmeet.jpg"]
+  },
+  {
+    "id": 13,
+    "name": "Burger Shack",
+    "vibe": ["Casual", "Fast Food"],
+    "description": "Fast food for quick hunger fixes.",
+    "images": ["/images/burger.jpg"]
+  },
+  {
+    "id": 14,
+    "name": "MIT Food Court 1",
+    "vibe": ["Campus", "Budget"],
+    "description": "Multiple food options under one roof.",
+    "images": ["/images/fc1.jpeg"]
+  },
+  {
+    "id": 15,
+    "name": "Belgian Waffle",
+    "vibe": ["Dessert", "Aesthetic"],
+    "description": "Sweet waffles and milkshakes.",
+    "images": ["/images/belgian.jpg"]
+  },
+  {
+    "id": 16,
+    "name": "Manipal Lake",
+    "type": "Place",
+    "vibe": ["Chill", "Nature"],
+    "description": "Peaceful lake for evening walks and sunsets.",
+    "images": ["/images/manipalLake.jpg"]
+  },
+  {
+    "id": 17,
+    "name": "End Point Park",
+    "type": "Place",
+    "vibe": ["Nature", "Chill"],
+    "description": "Scenic viewpoint popular among students.",
+    "images": ["/images/endPoint.jpg"]
+  }
+]

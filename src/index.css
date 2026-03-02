@@ -1,13 +1,65 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(circle at top, #e3f2fd, #ffffff 60%);
+  min-height: 100vh;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+/* Card hover effect */
+.place-card {
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.place-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Card image fix */
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+
+/* 🌟 Hero Section */
+.hero-section {
+  padding: 40px 20px 20px;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #212529;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  color: #6c757d;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* 🔍 Search bar polish */
+.form-control {
+  border-radius: 30px;
+  padding: 12px 18px;
+}
+
+/* 🎯 Filter buttons polish */
+.btn-outline-dark,
+.btn-dark {
+  border-radius: 20px;
+  padding: 6px 14px;
+}
+
+/* 🧱 Card polish */
+.place-card {
+  border-radius: 14px;
+  overflow: hidden;
 }
